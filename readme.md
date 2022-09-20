@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kirven05@gmail.com**
 
-- ⚡ Fun fact **I love to cook. My signature dish is maggie with loaded cheese.**
+- ⚡ Fun fact **I love to cook. My signature dish is maggie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran-venkat&show_icons=true&locale=en&layout=compact" alt="kiran-venkat" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiran-venkat&show_icons=true&locale=en" alt="kiran-venkat" /></p>
 
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-venkat&" alt="kiran-venkat" /></p>
+
+
+

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran.</h1>
 <h3 align="center">A passionate Fullstack developer from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/sodhikathingada" target="blank"><img src="https://img.shields.io/twitter/follow/sodhikathingada?logo=twitter&style=for-the-badge" alt="sodhikathingada" /></a> </p>
-
 - 🌱 I’m currently learning **NextJS, Blockchain.**
 
 - 📫 How to reach me **kirven05@gmail.com**
